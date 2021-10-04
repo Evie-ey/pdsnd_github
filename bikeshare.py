@@ -145,7 +145,7 @@ def trip_duration_stats(df):
     print('-'*40)
 
 def user_stats(df, city):
-    """Displays statistics on bikeshare users."""
+    """Displays statistical information on bikeshare users."""
 
     print('\nCalculating User Stats...\n')
     start_time = time.time()
@@ -183,7 +183,6 @@ def display_raw_data(df):
             start_loc += 5
         else:
             break
-
         view_display = input("Do you wish to continue?: ").lower()
         view_data = view_display
 
