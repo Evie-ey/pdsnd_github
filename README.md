@@ -13,12 +13,22 @@ Example of questions; bikeshare data for a particular month,
 most frequent times of travel, most popular stations and trips,
 total and average trip durations etc.
 
-### Files used
-The following files will be used;
-bikeshare.py: This is the python script to be run
+## Getting Started
 
-The following are the data files for the cities
-chicago.csv, new_york_city.csv, washington.csv
+The following instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+The following are things you need to have on your machine
+* Python 3.4 and above
+* IDE(sublime/visual studio code)
+* GIT
+
+### Files used
+The following files will be used
+>**bikeshare.py**: This is the python script to be run
+
+>**Data files**:chicago.csv, new_york_city.csv, washington.csv
 
 ### Credits
 This project was part of a udacity course I was undertaking.
